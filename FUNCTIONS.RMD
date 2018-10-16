@@ -32,19 +32,20 @@
    *format LEFT/RIGHT('string',num_characters)* 
  
 8. POSITION/STRPOS   
-   Find the position of a string   
-   **POSITION(',' IN city_state)**   
-   **STRPOS('city_state',',')**   
+   Find the position of a string      
+   **POSITION(',' IN city_state)**      
+   **STRPOS('city_state',',')**      
    
-9. CONCAT/||
-   Combine two strings
-   **CONCAT('string','string')**
-   **'string' || 'string'**
+9. CONCAT/||   
+   Combine two strings   
+   **CONCAT('string','string')**   
+   **'string' || 'string'**   
    
-10.DATE_TRUNC()/DATE_PART()
-   Extract part of the date
-   **DATE_TRUNC(‘day’, time_column)**
+10.DATE_TRUNC()/DATE_PART()   
+   Extract part of the date   
+   **DATE_TRUNC(‘day’, time_column)**   
    **DATE_PART(year, '2017/08/25')**   
+   
 
  
    
