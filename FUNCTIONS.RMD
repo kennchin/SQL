@@ -41,10 +41,10 @@
    **CONCAT('string','string')**   
    **'string' || 'string'**   
    
-10.DATE_TRUNC()/DATE_PART()   
-   Extract part of the date   
-   **DATE_TRUNC(‘day’, time_column)**   
-   **DATE_PART(year, '2017/08/25')**   
+10. DATE_TRUNC()/DATE_PART()   
+    Extract part of the date   
+    **DATE_TRUNC(‘day’, time_column)**   
+    **DATE_PART(year, '2017/08/25')**   
    
 
  
