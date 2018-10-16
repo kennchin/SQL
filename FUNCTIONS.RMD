@@ -29,5 +29,13 @@
   
 7. LEFT/RIGHT   
    Extract number of characters from left/right   
-   format LEFT/RIGHT('string',num_characters)   
+   *format LEFT/RIGHT('string',num_characters)* 
+ 
+8. POSITION/STRPOS   
+   Find the position of a string   
+   *POSITION(',' IN city_state)*   
+   *STRPOS('city_state',',')*   
+   
+9. 
+ 
    
