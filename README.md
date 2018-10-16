@@ -46,3 +46,8 @@ Overview of Basic commands in SQL
   UPDATE customers SET age = 33 WHERE id = 73;  (update)
   
   DELETE FROM customers WHERE id = 73;  (delete)
+  
+7) LEFT/RIGHT
+    - extract number of characters from left/right
+    - format LEFT/RIGHT('string',num_characters)
+   
